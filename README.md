@@ -1,4 +1,4 @@
-# MobiConnect - Connecting and Automating the World Once Service at a Time
+# MobiConnect - Modernizing and Connecting the World One Service at a Time
 MobiConnect will provide API calls, CL commands and other integrations for IBM i, Windows, Linux, MacOS and more.   
 
 MobiConnect is a system integration product for IBM i and other platforms.      
