@@ -1,13 +1,17 @@
-# MobiConnect - CL commands, API calls and other integrations for IBM i and More
-MobiConnect is a system integration product for IBM i and other platforms.     
+# MobiConnect - Connecting and Automating the World Once Service at a Time
+MobiConnect will provide API calls, CL commands and other integrations for IBM i, Windows, Linux, MacOS and more.   
 
-Most IBM i shops are focused on maintaining their daily applications and may not have the time to develop the utilities they require. If you have an idea for a CL command, API call, or any other integration that could enhance your IBM i systems, feel free to reach out.     
+MobiConnect is a system integration product for IBM i and other platforms.      
 
-Think of MobiConnect as a product similar to the the old IBM i QUSRTOOL product.   
+However IBM i will be a large part of the initial focus as there is a lack of good integration and automation utilities to the outside world in many cases.    
+
+Most IBM i and multiplatform shops are focused on maintaining their daily applications and may not have the time to develop the utilities they require. If you have an idea for a CL command, API call or any other integration that could enhance your IBM i , Windows, Linux or MacOS systems, feel free to reach out.     
+
+For IBM i developers, you can think of MobiConnect as a product similar to what the the old IBM i QUSRTOOL product used to be for the AS/400. Providing utility commands and programs to make life easier. The big benefit these days is that we have many things at our disposal such as Open-Source languages and tooling (Python, PHP, NodeJS, Java, .Net/C#), SQL and DB2 services, Apache and NGINX web servers, SSH, SFTP, SCP and more to accomplish multiplatform integration.
  
-When you use the platform you benefit from existing integrations as well as new ones that get suggested by you or other customers.
+When you use the MobiConnect platform you benefit from existing integrations as well as new ones that get suggested by you or other customers.
 
-## Types of integrations and API calls:
+## Types of integrations and API calls you might need
 
 ### IBM i  
 - Custom CL commands for operational use or development  
@@ -26,4 +30,9 @@ When you use the platform you benefit from existing integrations as well as new 
 - backgrond services
 - API integrations
 - Windows desktop application
+
+### Mobile
+- Mobile app development
+- Mobile API development
+- Mobile design
 
